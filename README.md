@@ -20,4 +20,6 @@ then:
 ```
 python app.py <password for generated accounts> <url for the post you want to comment on>
 ```
-Not responsible for shadowbans/any harm that comes from using this. Recommended to use this script behind a VPN or on a VPS or something with a different IP address than the one you use to mainly browse reddit/for your other accounts.
+Note that you must find the appropriate URL to post on, and you must have permissions to post on that post.
+
+Obviously not responsible for shadowbans/any harm that comes from using this. Recommended to use this script behind a VPN or on a VPS or something with a different IP address than the one you use to mainly browse reddit/for your other accounts.
